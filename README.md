@@ -1,4 +1,4 @@
-Academia Fit 🏋️‍♂️
+Academia Capital Fitness Project 🏋️‍♂️
 
 Este é um projeto de site para uma academia de musculação, desenvolvido com Bootstrap para garantir um design responsivo e moderno.
 
