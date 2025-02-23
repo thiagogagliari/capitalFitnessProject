@@ -54,4 +54,4 @@ Caso tenha dúvidas ou sugestões, entre em contato!
 
 🔗 [Linkedin] (https://www.linkedin.com/in/thiago-gagliari-2b4a5a22b/) 
 
-📧 thiagogagliari@email.com
+📧 thiagosgagliari@email.com
